@@ -11,6 +11,7 @@ int main(void) {
   
   printf("Integer value in binary: ");
   print_binary(value);
+  printf("\n");
   return 0;
 }
 
