@@ -76,3 +76,7 @@ Integer value in binary: 00000000000000000010011100010000
 Third byte in binary: 00000000000000000000000011111111
 Value with changed third byte in binary: 00000000111111110010011100010000
 ```
+
+## Демонстрация работы программ
+![image](https://github.com/EltexHomework/BitOperations/assets/70006380/48a09f8b-23e0-473c-822e-a86880a078ba)
+
